@@ -1,0 +1,40 @@
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 100px;
+}
+
+#titre {
+  font-size: 50px;
+  color: #000;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 118px;
+}
+h2:hover {
+  font-family: 'Roboto', sans-serif;
+  color: purple;
+  font-weight: lighter;
+  font-size: 118px;
+}
+a {
+  color: #A75848;
+  font-size: 26px;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+  font-size: 35px;
+}
